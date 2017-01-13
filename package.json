@@ -1,0 +1,26 @@
+{
+  "name": "MockServer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express.js": "^1.0.0"
+  },
+  "devDependencies": {
+    "express": "^4.14.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DDDDDanica/MockServer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DDDDDanica/MockServer/issues"
+  },
+  "homepage": "https://github.com/DDDDDanica/MockServer#readme"
+}
